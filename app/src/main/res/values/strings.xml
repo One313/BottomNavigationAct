@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BottomNavigationAct</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_a_fragment">This is A Fragment!</string>
+    <string name="this_is_b_fragment">This is B Fragment!</string>
+    <string name="this_is_c_fragment">This is C Fragment!</string>
+    <string name="this_is_d_fragment">This is D Fragment!</string>
+    <string name="go_to_a_fragment">GO TO A FRAGMENT</string>
+    <string name="go_to_b_fragment">GO TO B FRAGMENT</string>
+    <string name="go_to_c_fragment">GO TO C FRAGMENT</string>
+    <string name="go_to_d_fragment">GO TO D FRAGMENT</string>
+</resources>
